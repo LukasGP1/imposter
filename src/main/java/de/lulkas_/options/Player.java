@@ -1,4 +1,4 @@
-package de.lulkas_;
+package de.lulkas_.options;
 
 public class Player {
     private final String name;
